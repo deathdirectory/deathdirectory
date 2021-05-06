@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @deathdirectory
+- 👀 I’m interested in Minecraft's command block and datapack system
+- 🌱 I’m currently learning Java and C#
